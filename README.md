@@ -1,6 +1,10 @@
 # Automated-Obstacle-Avoidance-Car
 An autonomous car that detects and avoids obstacles using ultrasonic sensor
 Built with Arduino Uno, HC-SR04 ultrasonic sensor, L298N motor driver, and 2 DC motors
+
+# Watch the DEMO VIDEO on Youtube
+https://youtube.com/shorts/yKph24JBiZI?feature=share
+
 ## How It Works
 1. The HC-SR04 ultrasonic sensor continuously sends out sound waves and measures the distance to the nearest object.
 2. If the distance is more than 20cm, the car moves forward.
